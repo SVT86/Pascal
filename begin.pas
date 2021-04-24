@@ -7,6 +7,6 @@ Var
 Begin
   nombre := 'Sebastián';
   writeln(nombre);
-  For x:=1 To 200 Do
-    writeln(x);
+  For x:=1 To 10 Do
+    writeln("2 x "+x+" = "+(2*x));
 End.
