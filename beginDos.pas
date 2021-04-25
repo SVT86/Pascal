@@ -5,6 +5,6 @@ Var
   nombre: String;
 
 Begin
-  nombre := "HOLA MUNDO";
+  nombre := 'HOLA MUNDO';
   writeln(nombre);
-End;
+End.
