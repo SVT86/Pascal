@@ -2,7 +2,7 @@
 Program beginProgram;
 uses
   crt;
-
+  {ESTO ES UN LINDO COMENTARIO EN PASCAL}
 Var 
   nombre: String;
   x: integer;
