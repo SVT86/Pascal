@@ -1,7 +1,8 @@
 
 Program beginDos;
 
-nombre: String;
+Var 
+  nombre: String;
 
 Begin
   nombre := "HOLA MUNDO";
